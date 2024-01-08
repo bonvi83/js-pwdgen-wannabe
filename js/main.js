@@ -1,5 +1,5 @@
 // chiedo all'utente il suo nome
-const name = prompt("Qualè il tuo nome?")
+const name = parseInt (prompt("Qualè il tuo nome?"))
 
 // chiedo all'utente il suo cognnome
 const surname = prompt("Qualè il tuo cognome?")
