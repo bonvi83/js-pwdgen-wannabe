@@ -15,4 +15,5 @@ let password = name + surname + color + "23";
 console.log (password);
 
 
-alert ("La tua password è" + password);
+// la password che visualizza l'utente
+alert ("La tua password è " + password);
