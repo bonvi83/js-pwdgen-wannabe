@@ -13,3 +13,6 @@ console.log (color);
 // aggiungo alla password il numero 23
 let password = name + surname + color + "23";
 console.log (password);
+
+
+alert ("La tua password è" + password);
